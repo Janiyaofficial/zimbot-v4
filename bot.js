@@ -37,21 +37,21 @@ global.APIKeys = {
 global.Api = new (require('./plugins/neoxrApi.js'))(process.env.API_KEY)
 
 //settings
-global.owner = ['+447441437150',''] //owner number ++447441437150
-global.wame = ['+447441437150'] 
-global.pemilik = ['+447441437150'] //owner number ++447441437150
-global.premium = ['+447441437150'] //premium number ++447441437150
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['+94760618092',''] //owner number ++447441437150
+global.wame = ['+94760618092'] 
+global.pemilik = ['+94760618092'] //owner number ++447441437150
+global.premium = ['+94741467999'] //premium number ++447441437150
+global.pengguna = 'Janiya' //username
+global.footer = 'JK BOT INC'
+global.botnma = 'JK BOT INC' //bot name
+global.botname = 'JK BOT V4'
+global.ownernma = 'Janiya' //owner name
+global.packname = 'Janiya' //sticker package name
+global.author = 'By Janiya Memes' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
-global.max_upload = 100
+global.max_upload = 200
 global.dripstyping = false
 global.dripsreadgroup = false
 global.dripsreadall = true
@@ -79,7 +79,7 @@ global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tru
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
+    botAdmin: '*Jk bot  must be admin first!*',
     owner: '*this feature is only for zimbot owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
